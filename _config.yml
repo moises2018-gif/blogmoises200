@@ -20,12 +20,12 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    #twitter: thelehhman
-    #github:  moises2018-gif
-    #linkedIn: in/thelehhman
+    twitter: thelehhman
+    github:  thelehhman
+    linkedIn: in/thelehhman
     rss: rss
     # dribbble: jekyll
-     facebook: Moises.david.019
+     facebook: jekyll
     # facebook:https://www.facebook.com/Moises.david.019
     # flickr:   jekyll
     # instagram: jekyll
