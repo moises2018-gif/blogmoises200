@@ -1,6 +1,5 @@
 title: Blog Moises 
 author: Moises Ochoa
-email: your-email@domain.com
 email: your-m_j_fortaleza@hotmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Hola mundo soy Moises
@@ -22,6 +21,7 @@ plainwhite:
   # generate social links in footer
   social_links:
     twitter: moises
+
     github:  moises2018-gif
     linkedIn: in/thelehhman
     #rss: rss
