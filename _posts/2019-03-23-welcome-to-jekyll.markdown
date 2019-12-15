@@ -11,9 +11,7 @@ A pesar de eso, hubo más distracciones, mi abuelo falleció aunque paso tiempo 
 En definitiva, todo tiene un porque regresamos a la Universidad Estatal, con cupo en nuestra carrera seleccionada, en la cual he conocido buenos amigos y profesores, de esos buenos amigos hice mi encuesta, porque han sido buenas personas conmigo, muy buenas personas en mi parecer, espero que todos pasemos, poder vernos en carrera seguir juntos, y que finalmente mis proyecciones en el futuro se cumplan y mis objetivos.
 
 La vida ha sido buena y mala para mí en muchos momentos, en cierta parte mala conmigo, me hice diabético una condición que si no se trata con medicamento, puede degenerar de manera lenta los órganos y el cuerpo, entre otras cosas que son difíciles de hablar para mí, pero siempre se busca lo minúsculamente bueno que te pasa en la vida, para dar gracias a DIOS en esos pequeños momentos que llamamos felicidad, he caído en depresión varias veces, pero cada vez que te levantas ´´ Si te caes siete veces, levántate ocho.-Proverbio chino´´, hay siempre que aprovechar cada momento.
-
-
-```<html>
+<html>
 <head>
 <title>Ingenieria en Software</title>
 </head>
@@ -28,7 +26,9 @@ Realizar el seguimiento de costes y plazos.
 Liderar equipos de trabajo de desarrollo software.
 </body>
 <html/>
-	 
+	
+
+``` 
 
 ```
 
