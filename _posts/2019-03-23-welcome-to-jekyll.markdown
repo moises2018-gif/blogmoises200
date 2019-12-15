@@ -15,12 +15,13 @@ La vida ha sido buena y mala para mí en muchos momentos, en cierta parte mala c
 	
 
 ````
-<html>
-<head>
-<title>Ingenieria en Software</title>
-</head>
-<body>
+
 INGENIERIA EN SOFTWARE
+
+
+
+
+
 Es una aplicación práctica del conocimiento científico para proveer metodologías y técnicas que ayuden a desarrollar sistemas de software a tiempo, y a su vez que aseguren que el desarrollador cumpla con las expectativas de calidad y permanezca dentro del presupuesto.
 Objetivos de la IS
 Diseñar programas informáticos que se adecúen a las exigencias de la sociedad.
@@ -29,8 +30,7 @@ Actuar en todas las fases del ciclo de vida de un producto.
 Computar los costos de un proyecto y evaluar los tiempos de desarrollo.
 Realizar el seguimiento de costes y plazos.
 Liderar equipos de trabajo de desarrollo software.
-</body>
-<html/>
+
 ```
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
