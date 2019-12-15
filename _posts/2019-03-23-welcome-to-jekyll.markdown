@@ -19,7 +19,8 @@ La vida ha sido buena y mala para mí en muchos momentos, en cierta parte mala c
 <title>Ingenieria en Software</title>
 </head>
 <body>
-La ingeniería de software es una aplicación práctica del conocimiento científico para proveer metodologías y técnicas que ayuden a desarrollar sistemas de software a tiempo, y a su vez que aseguren que el desarrollador cumpla con las expectativas de calidad y permanezca dentro del presupuesto.
+INGENIERIA EN SOFTWARE
+Es una aplicación práctica del conocimiento científico para proveer metodologías y técnicas que ayuden a desarrollar sistemas de software a tiempo, y a su vez que aseguren que el desarrollador cumpla con las expectativas de calidad y permanezca dentro del presupuesto.
 Objetivos de la IS
 Diseñar programas informáticos que se adecúen a las exigencias de la sociedad.
 Liderar y acoplar el desarrollo de programaciones complicadas.
