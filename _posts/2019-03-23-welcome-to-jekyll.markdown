@@ -14,7 +14,7 @@ La vida ha sido buena y mala para mí en muchos momentos, en cierta parte mala c
 
 	
 
-````<html>
+````<html><body background="/assets/portfolio.png" style="background-color:#1377EF;">
 <head>
 <title>Ingenieria en Software</title>
 </head>
@@ -28,7 +28,7 @@ Actuar en todas las fases del ciclo de vida de un producto.
 Computar los costos de un proyecto y evaluar los tiempos de desarrollo.
 Realizar el seguimiento de costes y plazos.
 Liderar equipos de trabajo de desarrollo software.
-</body>
+</body><body background="/assets/portfolio.png" style="background-color:#1377EF;">
 <html/>`
 ```
 
