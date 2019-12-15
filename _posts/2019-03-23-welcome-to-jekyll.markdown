@@ -1,5 +1,5 @@
 ﻿---
-layout: post<body background="/assets/portfolio.png" style="background-color:#1377EF;">
+layout: post
 title:  "Mi biografia"
 date:   2019-03-23 21:03:36 +0530
 categories: Ingenieria Programacion Biografia
@@ -17,11 +17,6 @@ La vida ha sido buena y mala para mí en muchos momentos, en cierta parte mala c
 ````
 
 INGENIERIA EN SOFTWARE
-
-
-
-
-
 Es una aplicación práctica del conocimiento científico para proveer metodologías y técnicas que ayuden a desarrollar sistemas de software a tiempo, y a su vez que aseguren que el desarrollador cumpla con las expectativas de calidad y permanezca dentro del presupuesto.
 Objetivos de la IS
 Diseñar programas informáticos que se adecúen a las exigencias de la sociedad.
@@ -33,8 +28,8 @@ Liderar equipos de trabajo de desarrollo software.
 
 ```
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Check out the [face docs][face-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
+[face-docs]: https://www.facebook.com/Moises.david.019
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
