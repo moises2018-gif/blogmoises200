@@ -1,5 +1,5 @@
 ﻿---
-layout: post
+layout: post<body background="/assets/portfolio.png" style="background-color:#1377EF;">
 title:  "Mi biografia"
 date:   2019-03-23 21:03:36 +0530
 categories: Ingenieria Programacion Biografia
@@ -14,7 +14,8 @@ La vida ha sido buena y mala para mí en muchos momentos, en cierta parte mala c
 
 	
 
-````<html><body background="/assets/portfolio.png" style="background-color:#1377EF;">
+````
+<html>
 <head>
 <title>Ingenieria en Software</title>
 </head>
@@ -28,8 +29,8 @@ Actuar en todas las fases del ciclo de vida de un producto.
 Computar los costos de un proyecto y evaluar los tiempos de desarrollo.
 Realizar el seguimiento de costes y plazos.
 Liderar equipos de trabajo de desarrollo software.
-</body><body background="/assets/portfolio.png" style="background-color:#1377EF;">
-<html/>`
+</body>
+<html/>
 ```
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
