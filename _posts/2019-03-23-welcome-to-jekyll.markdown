@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:  "Integrating razorpay into your webapp"
+title:  "Mi biografia"
 date:   2019-03-23 21:03:36 +0530
 categories: Javascript NodeJS
 ---
@@ -15,19 +15,10 @@ En definitiva, todo tiene un porque regresamos a la Universidad Estatal, con cup
 La vida ha sido buena y mala para mí en muchos momentos, en cierta parte mala conmigo, me hice diabético una condición que si no se trata con medicamento, puede degenerar de manera lenta los órganos y el cuerpo, entre otras cosas que son difíciles de hablar para mí, pero siempre se busca lo minúsculamente bueno que te pasa en la vida, para dar gracias a DIOS en esos pequeños momentos que llamamos felicidad, he caído en depresión varias veces, pero cada vez que te levantas ´´ Si te caes siete veces, levántate ocho.-Proverbio chino´´, hay siempre que aprovechar cada momento.
 
 
-```javascript
-const Razorpay = require('razorpay');
+```				Ingenieria en Software
+La ingeniería de software es una aplicación práctica del conocimiento científico para proveer metodologías y técnicas que ayuden a desarrollar sistemas de software a tiempo, y a su vez que aseguren que el desarrollador cumpla con las expectativas de calidad y permanezca dentro del presupuesto.
 
-let rzp = Razorpay({
-	key_id: 'KEY_ID',
-	secret: 'name'
-});
-
-// capture request
-rzp.capture(payment_id, cost)
-	.then(function (data) {
-		return 2;
-	})
+	
 ```
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
