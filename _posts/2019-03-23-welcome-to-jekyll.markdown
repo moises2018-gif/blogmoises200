@@ -25,7 +25,8 @@ Computar los costos de un proyecto y evaluar los tiempos de desarrollo.
 Realizar el seguimiento de costes y plazos.
 Liderar equipos de trabajo de desarrollo software.
 
-	
+	 
+
 ```
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
