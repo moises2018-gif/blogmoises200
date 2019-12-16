@@ -1,6 +1,6 @@
 ﻿---
 
-layout: post
+layout: BLOG
 
 title:  "INTRODUCCION AL SOFTWARE"
 
