@@ -1,11 +1,13 @@
 ﻿---
 
-layout: BLOG
-title:  "INTRODUCCION AL SOTFWARE"
+layout: post
+
+title:  "Integrating razorpay into your webapp"
 
 date:   2019-03-23 21:03:36 +0530
 
-categories: SOTFWARE PROGRAMACION BLOG
+categories: Javascript NodeJS
+
 ---
 
 BIOGRAFIA
