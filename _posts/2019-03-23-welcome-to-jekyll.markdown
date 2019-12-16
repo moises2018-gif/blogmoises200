@@ -1,11 +1,11 @@
-﻿ ---
+﻿---
 
 layout: BLOG
 title:  "INTRODUCCION AL SOTFWARE"
 
 date:   2019-03-23 21:03:36 +0530
 
-categories: Javascript SOTFWARE PROGRAMACION BLOG
+categories: SOTFWARE PROGRAMACION BLOG
 ---
 
 BIOGRAFIA
