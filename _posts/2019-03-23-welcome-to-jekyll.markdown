@@ -1,8 +1,7 @@
 ﻿---
 
-layout: post
-
-title:  "Integrating razorpay into your webapp"
+layout: BLOG
+title:  "INTRODUCCION DEL SOFTWARE"
 
 date:   2019-03-23 21:03:36 +0530
 
@@ -32,10 +31,10 @@ rzp.capture(payment_id, cost)
 
 ```
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Check out the [Facebook][dirreccion] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
+[dirreccion] : https://jekyllrb.com/docs/home
 
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 
