@@ -1,13 +1,12 @@
-﻿---
+﻿ ---
 
 layout: post
 
-title:  "INTRODUCCION AL SOTFWARE"
+title:  "Integrating razorpay into your webapp"
 
 date:   2019-03-23 21:03:36 +0530
 
-categories: SOTFWARE PROGRAMACION BLOG
-
+categories: Javascript SOTFWARE PROGRAMACION BLOG
 ---
 
 BIOGRAFIA
@@ -41,4 +40,3 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 [jekyll-talk]: https://talk.jekyllrb.com/
 
- 
