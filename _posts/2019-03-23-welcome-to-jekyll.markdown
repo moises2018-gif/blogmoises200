@@ -14,10 +14,11 @@ A pesar de eso, hubo más distracciones, mi abuelo falleció aunque paso tiempo 
 ````
 Introduccion al software
 Todo respecto a la materia se encuentra en los links de abajo
+PORFAVOR PROFE REVISE BIEN MI EL LINK DE ABAJO MIRE AL FONDO DE LE CLIC JAJAJAJA AL EN LA ETIQUETA CAMBIABLE DE MI BLOB DE INTRODUCCION
 ```
 
-Check out the [Introduccion del software][face-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+AQUI INGENIERO [Introduccion ][Introduccion] ESTE MI BLOG SOBRE LA MATERIA. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[Introduccion del software]: https://www.facebook.com/Moises.david.019
+[Introduccion ]: https://www.facebook.com/Moises.david.019
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
