@@ -9,12 +9,12 @@ Nací en la ciudad de Guayaquil el 13 de mayo del 2000, soy el hijo menor de Mer
 
 ````
 Introduccion al software
-Todo respecto a la materia se encuentra en los links de abajo
-PORFAVOR PROFE REVISE BIEN MI EL LINK DE ABAJO MIRE AL FONDO DE LE CLIC JAJAJAJA AL EN LA ETIQUETA CAMBIABLE DE MI BLOB DE INTRODUCCION
+PRIMER PASO DALE CLIC A LINK INTRODUCCION
+SEGUNDO REVISAR HASATA EL FONDO EL LINDE INTRODCCION
+ME ESFORCE MUCHO EN ESA PAGINA ING :v 
 ```
 
-Check out the [INTRODUCCION][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [FACEBOOK][jekyll-gh]. PEQUEÑO BONU :V DEJELO PARA EL FINAL [PARA EL PROFE][jekyll-talk].
+INFORMACION SOBRE LA AMTERIA[INTRODUCCION][jekyll-docs] PARA MAS INFORMACION EN MI CUENTA DE FACE [FACEBOOK][jekyll-gh]. 
 
 [jekyll-docs]: https://moises2018-gif.github.io/INTRODUCCION-AL-SOFTWARE/#la-evoluci%C3%B3n-del-software
 [jekyll-gh]:   https://www.facebook.com/Moises.david.019
-[jekyll-talk]: https://www.youtube.com/watch?v=xwxjn-odc5k
