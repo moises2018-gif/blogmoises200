@@ -13,7 +13,7 @@ Todo respecto a la materia se encuentra en los links de abajo
 PORFAVOR PROFE REVISE BIEN MI EL LINK DE ABAJO MIRE AL FONDO DE LE CLIC JAJAJAJA AL EN LA ETIQUETA CAMBIABLE DE MI BLOB DE INTRODUCCION
 ```
 
-Check out the [INTRODUCCION][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [FACEBOOK][jekyll-gh]. PEQUEÑO BONU :V [PARA EL PROFE][jekyll-talk].
+Check out the [INTRODUCCION][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [FACEBOOK][jekyll-gh]. PEQUEÑO BONU :V DEJELO PARA EL FINAL [PARA EL PROFE][jekyll-talk].
 
 [jekyll-docs]: https://moises2018-gif.github.io/INTRODUCCION-AL-SOFTWARE/#la-evoluci%C3%B3n-del-software
 [jekyll-gh]:   https://www.facebook.com/Moises.david.019
