@@ -14,7 +14,7 @@ SEGUNDO REVISAR HASATA EL FONDO EL LINDE INTRODCCION
 ME ESFORCE MUCHO EN ESA PAGINA ING :v 
 ```
 
-INFORMACION SOBRE LA AMTERIA[INTRODUCCION][jekyll-docs] PARA MAS INFORMACION EN MI CUENTA DE FACE [FACEBOOK][jekyll-gh]. 
+INFORMACION SOBRE LA AMTERIA[INTRODUCCION][jekyll-docs] PARA MAS INFORMACION EN MI CUENTA DE FACE [BIOGRAFIA][jekyll-gh]. 
 
 [jekyll-docs]: https://moises2018-gif.github.io/INTRODUCCION-AL-SOFTWARE/#la-evoluci%C3%B3n-del-software
-[jekyll-gh]:   https://www.facebook.com/Moises.david.019
+[jekyll-gh]:   https://moises2018-gif.github.io/biografia/
